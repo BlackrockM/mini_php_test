@@ -5,12 +5,12 @@ Create search component which have to return array of objects which filtered by 
 Input: model 'Dish'
 App\Utils\Filter\Model\Dish
 
-####Common requirements:
+#### Common requirements:
 
 1. write search filter functionality for dishes
 2. add to index.php output for found values
 
-####Filter functionality requirements:
+#### Filter functionality requirements:
 
 1. create search filter by each dish property 
 2. create filter manager as independent class and factory
