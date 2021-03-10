@@ -8,13 +8,13 @@ App\Utils\Filter\Model\Dish
 #### Common requirements:
 
 1. write search filter functionality for dishes
-2. add to index.php output for found values
+2. add to index.php output implementation of filter functionality using 
 
 #### Filter functionality requirements:
 
 1. create search filter by each dish property 
 2. create filter manager as independent class and factory
-3. filter manager must support search by mixed filter's collection 
+3. filter manager must support search by mixed filter's collection of dish property 
 
 Example of search query:
 
